@@ -13,7 +13,7 @@
 ```
 git clone -b dev git@github.com:SimpleFate/newenergy.git
 ```
-![](imgs/gitssh.png)
+![](imgs/gitssh2.png)
 
 ## 2. 使用idea导入  
 ![](imgs/import0.png)
